@@ -1,7 +1,6 @@
-<h1 align="center">ʜɪ, ɪ'ᴍ ᴛʀᴀɴʜᴏᴀɴɢᴅᴜʏ2006</h1>
+<h1 align="center">ʜɪ, ɪ'ᴍ ᴛʀᴀɴʜᴏᴀɴɢᴅᴜʏ</h1>
 <h3 align="center">ᴀ ᴛɪɴʏ ᴄʀᴇᴀᴛᴜʀᴇ ɪɴ ᴛʜɪꜱ ᴠᴀꜱᴛ ᴡᴏʀʟᴅ.</h3>
 
-<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Student+at+PTIT+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Loves+React%2C+TypeScript+and+Node.js" alt="Typing SVG" />
 </p>
@@ -73,7 +72,6 @@
 
 ---
 
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhoangduy2006&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 </p>
