@@ -21,11 +21,11 @@
 - 🌱 ʟᴇᴀʀɴɪɴɢ: **React, Axios, Typescript**  
 - 👯 ᴄᴏʟʟᴀʙᴏʀᴀᴛɪɴɢ ᴏɴ: [QuizzizTest](https://github.com/TranHoangDuy2006/Project_FrontEnd_Fundamental)  
 - 🤝 ɴᴇᴇᴅ ʜᴇʟᴘ ᴡɪᴛʜ: [C_StudentManagement](https://github.com/TranHoangDuy2006/Project_C_TranHoangDuy-)  
-- 👨‍💻 ᴀʟʟ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ: [n24dtcn021.w3spaces.com](https://n24dtcn021.w3spaces.com/)  
-- 📝 ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ: [Facebook](https://www.facebook.com/itzduy2k6.1904/)  
-- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ: **HTML, CSS, Javascript**  
+- 👨‍💻 ᴀʟʟ ᴍʏ ᴘʀᴏᴊᴇᴄᴛs: [n24dtcn021.w3spaces.com](https://n24dtcn021.w3spaces.com/)  
+- 📝 ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇs ᴏɴ: [Facebook](https://www.facebook.com/itzduy2k6.1904/)  
+- 💬 ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ: **HTML, CSS, Javascript**  
 - 📫 ᴄᴏɴᴛᴀᴄᴛ: **duyhoangtran2006@gmail.com**  
-- 📄 ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ: [LinkedIn](https://www.linkedin.com/in/ho%C3%A0ng-duy-7241a7354/)  
+- 📄 ᴇxᴘᴇʀɪᴇɴᴄᴇs: [LinkedIn](https://www.linkedin.com/in/ho%C3%A0ng-duy-7241a7354/)  
 - ⚡ ꜰᴜɴ ꜰᴀᴄᴛ: *What I am passionate about, I will definitely do.*
 
 ---
