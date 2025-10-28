@@ -117,6 +117,10 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/tranhoangduy2006/tranhoangduy2006/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tranhoangduy2006/tranhoangduy2006/output/snake-dark.svg#gh-dark-mode-only)
 
+## 🎵 ɴᴏᴡ ᴘʟᴀʏɪɴɢ
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31pdla4gxbqy2iksjix244eyrtkm)
+
 ## ☕ ʙᴜʏ ᴍᴇ ᴀ ᴄᴏғғᴇᴇ
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourprofile">
