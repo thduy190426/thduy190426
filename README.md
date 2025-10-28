@@ -33,7 +33,7 @@
 <h3 align="left">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10;">
   <a href="https://twitter.com/hoangduy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
-  <a href="https://linkedin.com/in/hoangduy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/n24dtcn021/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
   <a href="https://www.facebook.com/itzduy2k6.1904" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
  <a href="https://www.instagram.com/thduy.1904" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@LycorisShadow" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
