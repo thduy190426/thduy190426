@@ -98,9 +98,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Continuous+Learner)
-
-
 ---
 
 <p align="center">
