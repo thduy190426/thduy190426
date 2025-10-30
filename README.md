@@ -120,7 +120,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random quote"/>
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ sɴᴀᴋᴇ
 ![GitHub Snake Light](https://raw.githubusercontent.com/tranhoangduy2006/tranhoangduy2006/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tranhoangduy2006/tranhoangduy2006/output/snake-dark.svg#gh-dark-mode-only)
 
