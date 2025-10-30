@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranhoangduy2006" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=tranhoangduy2006" alt="streak stats" />
 </p>
 
 ---
