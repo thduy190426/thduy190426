@@ -111,5 +111,7 @@
   </a>
 </p>
 
-### 🌍 Visitors Around The Globe
+### 🌍 ᴠɪsɪᴛᴏʀs ᴀʀᴏᴜɴᴅ ᴛʜᴇ ɢʟᴏʙᴇ
 ![visitors](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranhoangduy2006&theme=tokyonight)
+
+![heatmap](https://github-readme-activity-graph.vercel.app/graph?username=tranhoangduy2006&theme=github-compact)
