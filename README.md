@@ -76,7 +76,7 @@
 
 ---
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tranhoangduy2006&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
 
@@ -84,7 +84,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tranhoangduy2006&show_icons=true&locale=en" alt="stats" />
 </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranhoangduy2006" alt="streak stats" /> </p> -->
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranhoangduy2006" alt="streak stats" /> </p>
 
 ---
 
@@ -100,7 +100,7 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/tranhoangduy2006/tranhoangduy2006/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tranhoangduy2006/tranhoangduy2006/output/snake-dark.svg#gh-dark-mode-only)
 
-## 🤡 ᴊᴏᴋᴇ
+## 🤡 ᴊᴏᴋᴇꜱ
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🎵 ɴᴏᴡ ᴘʟᴀʏɪɴɢ ᴍᴜsɪᴄ
