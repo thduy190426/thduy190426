@@ -84,8 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tranhoangduy2006&show_icons=true&locale=en" alt="stats" />
 </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranhoangduy2006" alt="streak stats" /> </p>
-
 ---
 
 <p align="center">
