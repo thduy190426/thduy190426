@@ -1,5 +1,7 @@
 <h1 align="center">ʜɪ, ɪ'ᴍ ᴛʀᴀɴʜᴏᴀɴɢᴅᴜʏ</h1>
-<h3 align="center">ᴀ ᴛɪɴʏ ᴄʀᴇᴀᴛᴜʀᴇ ɪɴ ᴛʜɪs ᴠᴀsᴛ ᴡᴏʀʟᴅ.</h3>
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&text=ᴀ%20ᴛɪɴʏ%20ᴄʀᴇᴀᴛᴜʀᴇ%20ɪɴ%20ᴛʜɪs%20ᴠᴀsᴛ%20ᴡᴏʀʟᴅ.&fontSize=20&color=0:ff7eb3,100:65d6ce" />
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Student+at+PTIT+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Loves+Python%2C+Java+and+MySQL" alt="Typing SVG" />
