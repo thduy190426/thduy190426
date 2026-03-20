@@ -17,10 +17,7 @@
 
 ---
 
-- 🔭 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ: [YogaManagement](https://github.com/TranHoangDuy2006/IT104_YogaManagement)  
-- 🌱 ʟᴇᴀʀɴɪɴɢ: **React, Axios, Typescript**  
-- 👯 ᴄᴏʟʟᴀʙᴏʀᴀᴛɪɴɢ ᴏɴ: [QuizzizTest](https://github.com/TranHoangDuy2006/Project_FrontEnd_Fundamental)  
-- 🤝 ɴᴇᴇᴅ ʜᴇʟᴘ ᴡɪᴛʜ: [C_StudentManagement](https://github.com/TranHoangDuy2006/Project_C_TranHoangDuy-)  
+- 🌱 ʟᴇᴀʀɴɪɴɢ: **MySQL, Java, Python**  
 - 👨‍💻 ᴀʟʟ ᴍʏ ᴘʀᴏᴊᴇᴄᴛs: [n24dtcn021.w3spaces.com](https://n24dtcn021.w3spaces.com/)  
 - 📝 ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇs ᴏɴ: [Facebook](https://www.facebook.com/itzduy2k6.1904/)  
 - 💬 ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ: **HTML, CSS, Javascript**  
