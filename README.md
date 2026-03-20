@@ -1,6 +1,6 @@
 <h1 align="center">ʜɪ, ɪ'ᴍ ᴛʀᴀɴʜᴏᴀɴɢᴅᴜʏ</h1>
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&text=ᴀ%20ᴛɪɴʏ%20ᴄʀᴇᴀᴛᴜʀᴇ%20ɪɴ%20ᴛʜɪs%20ᴠᴀsᴛ%20ᴡᴏʀʟᴅ.&fontSize=20&color=0:ff7eb3,100:65d6ce" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=20&center=true&vCenter=true&width=600&lines=ᴀ+ᴛɪɴʏ+ᴄʀᴇᴀᴛᴜʀᴇ+ɪɴ+ᴛʜɪs+ᴠᴀsᴛ+ᴡᴏʀʟᴅ.&pause=1000&repeat=true" />
 </h3>
 
 <p align="center">
