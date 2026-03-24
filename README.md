@@ -100,10 +100,6 @@
 ## 🤡 ᴊᴏᴋᴇꜱ
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 🎵 ɴᴏᴡ ᴘʟᴀʏɪɴɢ ᴍᴜsɪᴄ
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31pdla4gxbqy2iksjix244eyrtkm)
-
 ## ☕ ʙᴜʏ ᴍᴇ ᴀ ᴄᴏғғᴇᴇ
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourprofile">
