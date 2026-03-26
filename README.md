@@ -108,4 +108,4 @@
 </p>
 
 ### 🌍 ᴠɪsɪᴛᴏʀs ᴀʀᴏᴜɴᴅ ᴛʜᴇ ɢʟᴏʙᴇ
-![visitors](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranhoangduy2006&theme=tokyonight)
+![visitors](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thduy190426&theme=tokyonight)
