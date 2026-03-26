@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tranhoangduy2006/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=tranhoangduy2006&theme=onedark" alt="GitHub Trophies" />
+  <a href="https://github.com/thduy190426/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=thduy190426&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 - 🌱 ʟᴇᴀʀɴɪɴɢ: **MySQL, Java, Python**  
 - 👨‍💻 ᴀʟʟ ᴍʏ ᴘʀᴏᴊᴇᴄᴛs: [n24dtcn021.w3spaces.com](https://n24dtcn021.w3spaces.com/)  
 - 📝 ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇs ᴏɴ: [Facebook](https://www.facebook.com/itzduy2k6.1904/)  
-- 💬 ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ: **HTML, CSS, Javascript**  
+- 💬 ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ: **C, C++, C#**  
 - 📫 ᴄᴏɴᴛᴀᴄᴛ: **duyhoangtran2006@gmail.com**  
 - 📄 ᴇxᴘᴇʀɪᴇɴᴄᴇs: [LinkedIn](https://www.linkedin.com/in/ho%C3%A0ng-duy-7241a7354/)  
 - ⚡ ꜰᴜɴ ꜰᴀᴄᴛ: *What I am passionate about, I will definitely do.*
@@ -76,17 +76,17 @@
 ---
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tranhoangduy2006&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thduy190426&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranhoangduy2006&show_icons=true&locale=en" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thduy190426&show_icons=true&locale=en" alt="stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhoangduy2006&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thduy190426&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 <p align="center">
