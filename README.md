@@ -75,16 +75,6 @@
 ---
 
 <p align="center">
-  <img src="https://gh-readme-stats.deno.dev/api?username=thduy190426&show_icons=true&locale=en" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://gh-readme-stats.deno.dev/api/top-langs?username=thduy190426&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-
----
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thduy190426&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
