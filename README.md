@@ -74,12 +74,12 @@
 
 ---
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thduy190426&show_icons=true&locale=en&layout=compact" alt="top languages" />
+<p align="center">
+  <img src="https://gh-readme-stats.deno.dev/api?username=thduy190426&show_icons=true&locale=en" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thduy190426&show_icons=true&locale=en" alt="stats" />
+  <img src="https://gh-readme-stats.deno.dev/api/top-langs?username=thduy190426&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
 
 ---
