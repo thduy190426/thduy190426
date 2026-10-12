@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Student+at+PTIT+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Loves+Python%2C+Java+and+MySQL" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tranhoangduy2006&label=Profile%20views&color=0e75b6&style=flat" alt="tranhoangduy2006" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/thduy190426/github-trophies">
