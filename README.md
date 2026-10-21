@@ -9,9 +9,9 @@
 
   <img width="100%" alt="Hoang Duy — developer profile banner" src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:0f172a,50:1b3254,100:4338ca&amp;text=HOANG%20DUY&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=39&amp;desc=A%20tiny%20creature%20in%20this%20vast%20world.&amp;descSize=17&amp;descAlignY=59&amp;animation=fadeIn" />
 
-  <h3>👋 Hey there! I'm Hoang Duy</h3>
+  <h3>Hey there! I'm Hoang Duy</h3>
 
-  <p><strong>IT Student at PTIT 🎓 &nbsp;·&nbsp; Full-Stack Developer 💻 &nbsp;·&nbsp; Based in Vietnam 🇻🇳</strong></p>
+  <p><strong>IT Student at PTIT &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Based in Vietnam 🇻🇳</strong></p>
 
   <img alt="Animated introduction: developer interests" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=850&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=42&amp;lines=Building+things+for+the+web+%F0%9F%9A%80;Exploring+Java%2C+Python+and+MySQL;Learning+every+day%2C+one+commit+at+a+time;Code.+Create.+Improve.+Repeat." />
 
@@ -32,22 +32,22 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
 <table>
   <tr>
     <td width="56%" valign="top">
-      <h3>👋 Who I Am</h3>
+      <h3>Who I Am</h3>
       <p>Hey! I'm <strong>Trần Hoàng Duy</strong>, an IT student at the <strong>Posts and Telecommunications Institute of Technology (PTIT)</strong> in Vietnam 🇻🇳.</p>
       <p>I'm passionate about <strong>full-stack development</strong>, building practical applications, and crafting clean, user-friendly interfaces.</p>
-      <p>💬 <strong>Ask me about:</strong> C, C++, C#, and web development.</p>
-      <p>📫 <strong>Get in touch:</strong> <a href="mailto:duyhoangtran2006@gmail.com">Email me</a></p>
+      <p><strong>Ask me about:</strong> C, C++, C#, and web development.</p>
+      <p><strong>Get in touch:</strong> <a href="mailto:duyhoangtran2006@gmail.com">Email me</a></p>
     </td>
     <td width="44%" valign="top">
-      <h3>🎯 What I'm Focusing On</h3>
-      <p>🌱 <strong>Currently learning:</strong> Java, Python, and MySQL.</p>
-      <p>💻 <strong>What I enjoy:</strong> Web development, useful apps, and beautiful UI.</p>
-      <p>🚀 <strong>My goal:</strong> Keep improving my full-stack skills through real projects.</p>
+      <h3>What I'm Focusing On</h3>
+      <p><strong>Currently learning:</strong> Java, Python, and MySQL.</p>
+      <p><strong>What I enjoy:</strong> Web development, useful apps, and beautiful UI.</p>
+      <p><strong>My goal:</strong> Keep improving my full-stack skills through real projects.</p>
       <p>
         <img alt="Java" src="https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
         <img alt="Python" src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
@@ -57,10 +57,10 @@
   </tr>
 </table>
 
-<p align="center"><em>✨ “What I am passionate about, I will definitely do.” ✨</em></p>
+<p align="center"><em> “What I am passionate about, I will definitely do.” </em></p>
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -83,9 +83,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧘 [Yoga Management](https://github.com/thduy190426/IT104_YogaManagement)
+### [Yoga Management](https://github.com/thduy190426/IT104_YogaManagement)
 
 A responsive yoga service and class management application with user authentication, booking, course management, and admin features.
 
@@ -94,7 +94,7 @@ A responsive yoga service and class management application with user authenticat
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Redux](https://img.shields.io/badge/Redux%20Toolkit-0f172a?style=flat-square&logo=redux&logoColor=764ABC)
 
-### 💬 [CaesarChatTransfer](https://github.com/thduy190426/CaesarChatTransfer_Project)
+### [CaesarChatTransfer](https://github.com/thduy190426/CaesarChatTransfer_Project)
 
 A Java desktop client-server application for chatting and chunked file transfers, featuring TCP sockets, Swing UI, Caesar-cipher demonstrations, and MySQL persistence.
 
@@ -110,7 +110,7 @@ A Java desktop client-server application for chatting and chunked file transfers
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -140,7 +140,7 @@ A Java desktop client-server application for chatting and chunked file transfers
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img width="100%" alt="GitHub profile trophies" src="https://github-trophies.vercel.app/?username=thduy190426&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8" />
@@ -148,7 +148,7 @@ A Java desktop client-server application for chatting and chunked file transfers
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -163,7 +163,7 @@ A Java desktop client-server application for chatting and chunked file transfers
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="mailto:duyhoangtran2006@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
@@ -176,7 +176,7 @@ A Java desktop client-server application for chatting and chunked file transfers
 </div>
 
 <details>
-  <summary>☕ A little extra — random developer joke</summary>
+  <summary>A little extra — random developer joke</summary>
   <br />
   <div align="center">
     <img alt="A random programming joke" src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
@@ -187,8 +187,8 @@ A Java desktop client-server application for chatting and chunked file transfers
 
 <div align="center">
 
-  <h3>💭 "What I am passionate about, I will definitely do."</h3>
-  <p><em>Thanks for stopping by. Have a wonderful day, and happy coding! ✨</em></p>
+  <h3>"What I am passionate about, I will definitely do."</h3>
+  <p><em>Thanks for stopping by. Have a wonderful day, and happy coding! </em></p>
 
   <a href="https://github.com/thduy190426"><img alt="GitHub profile" src="https://img.shields.io/badge/Follow%20my%20journey-@thduy190426-6366f1?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=0f172a" /></a>
 
