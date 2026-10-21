@@ -34,24 +34,30 @@
 
 ## ✨ About Me
 
-```typescript
-const hoangDuy = {
-  name: "Trần Hoàng Duy",
-  university: "Posts and Telecommunications Institute of Technology (PTIT)",
-  role: "IT Student & Full-Stack Developer",
-  location: "Vietnam 🇻🇳",
-  learning: ["Java", "Python", "MySQL"],
-  enjoys: ["Web Development", "Building Useful Apps", "Beautiful UI"],
-  motto: "What I am passionate about, I will definitely do."
-};
-```
+<table>
+  <tr>
+    <td width="56%" valign="top">
+      <h3>👋 Who I Am</h3>
+      <p>Hey! I'm <strong>Trần Hoàng Duy</strong>, an IT student at the <strong>Posts and Telecommunications Institute of Technology (PTIT)</strong> in Vietnam 🇻🇳.</p>
+      <p>I'm passionate about <strong>full-stack development</strong>, building practical applications, and crafting clean, user-friendly interfaces.</p>
+      <p>💬 <strong>Ask me about:</strong> C, C++, C#, and web development.</p>
+      <p>📫 <strong>Get in touch:</strong> <a href="mailto:duyhoangtran2006@gmail.com">Email me</a></p>
+    </td>
+    <td width="44%" valign="top">
+      <h3>🎯 What I'm Focusing On</h3>
+      <p>🌱 <strong>Currently learning:</strong> Java, Python, and MySQL.</p>
+      <p>💻 <strong>What I enjoy:</strong> Web development, useful apps, and beautiful UI.</p>
+      <p>🚀 <strong>My goal:</strong> Keep improving my full-stack skills through real projects.</p>
+      <p>
+        <img alt="Java" src="https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
+        <img alt="Python" src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Learning-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-- 🔭 **I enjoy:** turning ideas into thoughtful, useful applications.
-- 🌱 **Currently learning:** **Java · Python · MySQL**, and improving my full-stack skills.
-- 💬 **Ask me about:** **C, C++, C#** and web development.
-- 🎯 **My focus:** clean code, practical projects, and user-friendly experiences.
-- 📫 **Reach me:** [duyhoangtran2006@gmail.com](mailto:duyhoangtran2006@gmail.com).
-
+<p align="center"><em>✨ “What I am passionate about, I will definitely do.” ✨</em></p>
 ---
 
 ## 🧰 Tech Stack & Tools
@@ -117,9 +123,18 @@ A Java desktop client-server application for chatting and chunked file transfers
 
   <br />
 
-  <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thduy190426&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=7dd3fc&amp;line=8b5cf6&amp;point=ffffff&amp;area=true&amp;hide_border=true" />
+  <!-- Alternative activity visualization: the original activity-graph.vercel.app deployment is paused. -->
+  <a href="https://github.com/thduy190426">
+    <img width="96%" alt="GitHub contribution history summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thduy190426&amp;theme=tokyonight" />
+  </a>
 
-  <sub>Stats are generated from public GitHub data and may take time to refresh.</sub>
+  <p>
+    <a href="https://github.com/thduy190426">
+      <img alt="View my official GitHub contributions" src="https://img.shields.io/badge/%F0%9F%93%88%20View%20Official%20Contribution%20Graph-GitHub-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=4338ca" />
+    </a>
+  </p>
+
+  <sub>Live statistics depend on third-party services. GitHub's official contribution calendar is always available on my profile.</sub>
 
 </div>
 
