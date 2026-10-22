@@ -58,7 +58,6 @@
 </table>
 
 <p align="center"><em> “What I am passionate about, I will definitely do.” </em></p>
----
 
 ## Tech Stack & Tools
 
