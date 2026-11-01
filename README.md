@@ -113,9 +113,6 @@ A Java desktop client-server application for chatting and chunked file transfers
 
 <div align="center">
 
-  <img height="175" alt="Hoang Duy GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=thduy190426&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7dd3fc&amp;icon_color=a78bfa&amp;text_color=cbd5e1&amp;rank_icon=github" />
-  <img height="175" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thduy190426&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7dd3fc&amp;text_color=cbd5e1" />
-
   <br />
 
   <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=thduy190426&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=38BDF8&amp;fire=A78BFA&amp;currStreakLabel=7DD3FC" />
@@ -132,8 +129,6 @@ A Java desktop client-server application for chatting and chunked file transfers
       <img alt="View my official GitHub contributions" src="https://img.shields.io/badge/%F0%9F%93%88%20View%20Official%20Contribution%20Graph-GitHub-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=4338ca" />
     </a>
   </p>
-
-  <sub>Live statistics depend on third-party services. GitHub's official contribution calendar is always available on my profile.</sub>
 
 </div>
 
