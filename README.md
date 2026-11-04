@@ -35,13 +35,13 @@
 
 <table width="100%">
   <tr>
-    <td width="54%" valign="top">
+    <td width="540" valign="top">
       <h3>Who I Am</h3>
       <p>I'm <strong>Trần Hoàng Duy</strong>, an IT student at <strong>PTIT</strong> in Vietnam.</p>
       <p>I enjoy building practical apps and clean, user-friendly interfaces.</p>
       <p><strong>Ask me about</strong><br />C · C++ · C# · Web development</p>
     </td>
-    <td width="46%" valign="top">
+    <td width="460" valign="top">
       <h3>My Focus</h3>
       <p><strong>Learning</strong><br />Java · Python · MySQL</p>
       <p><strong>Exploring</strong><br />Full-stack development and thoughtful UI.</p>
