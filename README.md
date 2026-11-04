@@ -35,13 +35,13 @@
 
 <table width="100%">
   <tr>
-    <td width="540" valign="top">
+    <td width="540" valign="top" align="center">
       <h3>Who I Am</h3>
       <p>I'm <strong>Trần Hoàng Duy</strong>, an IT student at <strong>PTIT</strong> in Vietnam.</p>
       <p>I enjoy building practical apps and clean, user-friendly interfaces.</p>
       <p><strong>Ask me about</strong><br />C · C++ · C# · Web development</p>
     </td>
-    <td width="460" valign="top">
+    <td width="460" valign="top" align="center">
       <h3>My Focus</h3>
       <p><strong>Learning</strong><br />Java · Python · MySQL</p>
       <p><strong>Exploring</strong><br />Full-stack development and thoughtful UI.</p>
@@ -78,7 +78,7 @@
 <p align="center"><sub>IDEAS TURNED INTO APPLICATIONS</sub></p>
 
 <table width="100%">
-  <tr><td width="1000">
+  <tr><td width="1000" align="center">
     <p><sub>01 &nbsp; / &nbsp; WEB APPLICATION</sub></p>
     <h3><a href="https://github.com/thduy190426/IT104_YogaManagement">Yoga Management</a></h3>
     <p>A responsive application for yoga classes, bookings, and administration.</p>
@@ -89,7 +89,7 @@
 </table>
 
 <table width="100%">
-  <tr><td width="1000">
+  <tr><td width="1000" align="center">
     <p><sub>02 &nbsp; / &nbsp; DESKTOP &amp; NETWORKING</sub></p>
     <h3><a href="https://github.com/thduy190426/CaesarChatTransfer_Project">CaesarChatTransfer</a></h3>
     <p>A Java client–server application for messaging and chunked file transfers.</p>
