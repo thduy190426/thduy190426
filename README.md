@@ -59,16 +59,16 @@
 <div align="center">
 
 <h4>Languages</h4>
-<img src="https://skillicons.dev/icons?i=c%2Ccpp%2Ccs%2Cjava%2Cpy%2Cjs%2Cts&amp;theme=dark&amp;perline=7" alt="Technology icons: c,cpp,cs,java,py,js,ts" width="340" />
+<p align="center"><img src="https://skillicons.dev/icons?i=c&amp;theme=dark" alt="C" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" alt="C++" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" alt="C#" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" alt="Java" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" alt="Python" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=js&amp;theme=dark" alt="JavaScript" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" alt="TypeScript" width="42" height="42" /></p>
 
 <h4>Frontend</h4>
-<img src="https://skillicons.dev/icons?i=html%2Ccss%2Creact%2Ctailwind%2Cbootstrap&amp;theme=dark&amp;perline=7" alt="Technology icons: html,css,react,tailwind,bootstrap" width="240" />
+<p align="center"><img src="https://skillicons.dev/icons?i=html&amp;theme=dark" alt="HTML" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=css&amp;theme=dark" alt="CSS" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" alt="Tailwind CSS" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=bootstrap&amp;theme=dark" alt="Bootstrap" width="42" height="42" /></p>
 
 <h4>Backend &amp; Database</h4>
-<img src="https://skillicons.dev/icons?i=nodejs%2Cmysql&amp;theme=dark&amp;perline=7" alt="Technology icons: nodejs,mysql" width="90" />
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" alt="Node.js" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" alt="MySQL" width="42" height="42" /></p>
 
 <h4>Development Tools</h4>
-<img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Cfigma%2Cpostman&amp;theme=dark&amp;perline=7" alt="Technology icons: git,github,vscode,figma,postman" width="240" />
+<p align="center"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" alt="VS Code" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Figma" width="42" height="42" /> &nbsp; <img src="https://skillicons.dev/icons?i=postman&amp;theme=dark" alt="Postman" width="42" height="42" /></p>
 
 <p><sub>Some technologies are part of my learning journey. Proficiency varies by tool.</sub></p>
 
